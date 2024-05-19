@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sariyala101/gif.git/static/css/main.511ecfbc.css",
+    "main.js": "/Sariyala101/gif.git/static/js/main.abd63cc9.js",
+    "index.html": "/Sariyala101/gif.git/index.html",
+    "main.511ecfbc.css.map": "/Sariyala101/gif.git/static/css/main.511ecfbc.css.map",
+    "main.abd63cc9.js.map": "/Sariyala101/gif.git/static/js/main.abd63cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511ecfbc.css",
+    "static/js/main.abd63cc9.js"
+  ]
+}
